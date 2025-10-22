@@ -1,4 +1,3 @@
-// Navigation + underline
 const links = document.querySelectorAll('.nav-link');
 const underline = document.querySelector('.underline');
 const pages = document.querySelectorAll('.page');
